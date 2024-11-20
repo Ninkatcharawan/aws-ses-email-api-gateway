@@ -38,6 +38,7 @@ API Gateway provides a URL for making POST requests:
 
 ### Request Format
 
+#### Headers
 ```http
 Authorization: YOUR_AUTH_TOKEN
 ```
