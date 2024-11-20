@@ -1,15 +1,8 @@
-Here's a draft for your GitHub repository's README, along with a suggested name for your repository. Once you provide the code, I can further adjust this README to include setup and usage instructions.
-
----
-
-## Suggested Repository Name:  
-`aws-ses-email-api-gateway`
-
----
-
 # AWS SES Email Sending API
 
 This repository demonstrates a solution for sending emails securely via AWS SES using an API Gateway and AWS Lambda integration. The setup ensures security, scalability, and ease of use for clients needing to send emails from a verified domain.
+
+![Uploading image.png…]()
 
 ---
 
